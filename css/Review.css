@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.title {
+  border: 1px solid black;
+  text-align: center;
+  margin: 10%;
+  background-color: blueviolet;
+  color: white;
+}
+
+#img-container {
+  background-color: white;
+}
+
+#person-img {
+  border-radius: 50%;
+  width: 40%;
+  height: 40%;
+  margin-left: 25%;
+  border: 5px solid black;
+}
+/*# sourceMappingURL=Review.css.map */
